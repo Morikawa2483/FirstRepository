@@ -1,8 +1,0 @@
-https://apps.microsoft.com/detail/9mtp5013343h?hl=ja-JP&gl=JP
-https://github.com/Esri/arcgis-maps-sdk-dotnet-samples/tree/main
-https://github.com/yozaw/bike-rental-stations-maui
-https://github.com/EsriJapan/enc-viewer-dotnet
-https://github.com/Esri/arcgis-maps-sdk-kotlin-samples/tree/main
-https://github.com/Esri/arcgis-maps-sdk-flutter-samples/
-"https://github.com/Esri/arcgis-pro-sdk-community-samples/releases
-GitHubからサンプル入手"

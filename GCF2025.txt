@@ -1,0 +1,35 @@
+apikey
+AAPTxy8BH1VEsoebNVZXo8HurKrqPgU_w-oIgFvTYfsPNBf-Q2pYOwdfSHVatdt8OqxY6BOncGUlayEcgRcKtnbOIdo3tU6HTUC3iW_Mi4VTp4ILXmGnMXrAa6dGfbiVLIOB2LGUiZUjADYQDMzMZvWhV0tAbt4fMbuFP2qFwIHuKqUeb-SMbJsQPJd1bay7T-Fw59MFHmHxlfQ_U3YMyoPH43OT7BPCo2pEyl6gdOUCV7U.AT1_dFW0FbrK
+
+デモセット
+https://apps.microsoft.com/detail/9mtp5013343h?hl=ja-JP&gl=JP
+https://github.com/Esri/arcgis-maps-sdk-dotnet-samples/tree/main
+https://github.com/yozaw/bike-rental-stations-maui
+https://github.com/EsriJapan/enc-viewer-dotnet
+https://github.com/Esri/arcgis-maps-sdk-kotlin-samples/tree/main
+https://github.com/Esri/arcgis-maps-sdk-flutter-samples/
+https://github.com/Esri/arcgis-pro-sdk-community-samples/releases
+
+セットアップ
+https://visualstudio.microsoft.com/ja/downloads/
+"https://visualstudio.microsoft.com/ja/vs/older-downloads/
+（ArcObjects入れる場合）"
+"https://code.visualstudio.com/
+"
+\\mediafilesvr.esrij.local\製品メディア\ArcGIS Pro\3.5\英語版
+https://apps.microsoft.com/detail/9mtp5013343h?hl=ja-jp&gl=JP
+クローン環境を作成し最新版をインストール（Deep Learning Libraries インストール後）
+https://developers.arcgis.com/experience-builder/
+https://nodejs.org/en/download
+https://unity.com/download
+https://developers.arcgis.com/unity/downloads/
+https://www.unrealengine.com/ja/download
+https://developers.arcgis.com/unreal-engine/downloads/
+\\mediafilesvr.esrij.local\製品メディア\ArcGIS Engine\10.8.2\日本語版\Engine本体＆日本語パック
+"\\mediafilesvr.esrij.local\製品メディア\ArcGIS Engine\10.8.2\日本語版\国内対応パック
+注：日本語パックではなく国内対応パックです"
+\\mediafilesvr.esrij.local\製品メディア\ArcGIS Engine\10.8.2\英語版
+https://developer.android.com/studio?hl=ja
+
+https://www.meta.com/en-gb/help/quest/1517439565442928/
+https://developers.meta.com/horizon/downloads/package/oculus-developer-hub-win
